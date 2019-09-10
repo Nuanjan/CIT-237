@@ -1,0 +1,7 @@
+﻿  InventoryItem.cpp
+d:\cit 237\project 3\project3\inventoryitem.cpp(4): error C2556: 'bool InventoryItem::removeUnits(int)': overloaded function differs only by return type from 'void InventoryItem::removeUnits(int)'
+  d:\cit 237\project 3\project3\inventoryitem.h(60): note: see declaration of 'InventoryItem::removeUnits'
+d:\cit 237\project 3\project3\inventoryitem.cpp(4): error C2371: 'InventoryItem::removeUnits': redefinition; different basic types
+  d:\cit 237\project 3\project3\inventoryitem.h(60): note: see declaration of 'InventoryItem::removeUnits'
+  project3.cpp
+  Generating Code...

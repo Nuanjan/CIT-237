@@ -1,0 +1,12 @@
+0|Pump|39|20
+1|Gasket|1.5|29
+2|Water Level Guage|12.99|30
+3|Faucet Repair Kit|4.89|8
+4|Teflon Thread Seal Tape (50 ft roll)|3.3|12
+5|shutoff valve|6.5|10
+6|Cable|5|18
+7|Extension Cord (14/3, 25 ft)|27.95|11
+8|Light switch (15 amp)|2.79|10
+9|Ceiling Fan (52 inch)|79.95|0
+10|Vinyl Electrical Tape (20 ft roll)|0.79|30
+11|GFI Tester|9.35|5

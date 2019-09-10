@@ -1,0 +1,13 @@
+0|Turnbuckle|3.8|25
+1|Siding nails (box of 100)|4|20
+2|Flat washer (box of 100)|2.8|30
+3|Machine screw (box of 100)|3.2|10
+4|Hex bolt (box of 100)|6.5|23
+5|Hex nut (box of 100)|3.8|15
+6|Sheet Metal Screw (qty 100)|1.5|28
+7|Cable|5|18
+8|Extension Cord (14/3, 25 ft)|27.95|6
+9|Light switch (15 amp)|2.79|10
+10|Ceiling Fan (52 inch)|79.95|3
+11|Vinyl Electrical Tape (20 ft roll)|0.79|30
+12|GFI Tester|9.35|2
