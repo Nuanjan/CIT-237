@@ -1,0 +1,4 @@
+﻿  lab20.1.cpp
+lab20.1.obj : error LNK2019: unresolved external symbol "public: struct IntList::ListNode * __thiscall IntList::getHead(void)" (?getHead@IntList@@QAEPAUListNode@1@XZ) referenced in function _main
+lab20.1.obj : error LNK2019: unresolved external symbol "public: void __thiscall IntList::displayRecursive(struct IntList::ListNode *)" (?displayRecursive@IntList@@QAEXPAUListNode@1@@Z) referenced in function _main
+D:\CIT 237\lab 20.1\lab20.1\Debug\lab20.1.exe : fatal error LNK1120: 2 unresolved externals
