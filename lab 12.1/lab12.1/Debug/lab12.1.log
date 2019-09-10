@@ -1,0 +1,4 @@
+﻿  lab12.1.cpp
+d:\cit 237\lab 12.1\lab12.1\lab12.1.cpp(85): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\cit 237\lab 12.1\lab12.1\lab12.1.cpp(104): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  lab12.1.vcxproj -> D:\CIT 237\lab 12.1\lab12.1\Debug\lab12.1.exe
